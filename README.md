@@ -1,5 +1,5 @@
 # Meowware-ReverseShell-C
 A Linux Reverse Shell Program written in C that drops random cat.txt files and fills them with cat nonsense whenever a command is run \
-through the reverse shell.
+through the reverse shell. \
 Edit the callback IP and Port and then compile with: \
 ```gcc MeowWare.c -o MeowWare```
