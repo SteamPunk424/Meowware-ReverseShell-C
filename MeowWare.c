@@ -26,7 +26,8 @@ void drop_random_cat_file(void) {
         "$cr1ptK1tt13$ was here MEow",
         "Meow MEow Meow me0w mow!",
         "Preaching to the MEOW MEOW!\nCan i Get the Meow a little MEOW MEOW!",
-        "La $K1Dshell"
+        "La $K1Dshell",
+        "Straight up meowing my ware"
     };
     size_t n_payloads = sizeof(payloads)/sizeof(payloads[0]);
 
